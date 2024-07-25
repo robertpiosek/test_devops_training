@@ -77,3 +77,5 @@ ls -la
 cd repo1
 ls -la
 git status
+git config --global user.name 'robertpiosek'
+git config --global user.email 'robertpiosek@gmail.com'

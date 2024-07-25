@@ -1,0 +1,13 @@
+2024-07-25 22:38:08.863 [info] Extension host with pid 13245 started
+2024-07-25 22:38:08.863 [error] Error: EEXIST: file already exists, open '/home/robertp/.vscode-server/data/User/workspaceStorage/56891dca59f4f51eb13640e870233759/vscode.lock'
+2024-07-25 22:38:08.868 [info] Lock '/home/robertp/.vscode-server/data/User/workspaceStorage/56891dca59f4f51eb13640e870233759/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-07-25 22:38:08.877 [info] Lock '/home/robertp/.vscode-server/data/User/workspaceStorage/56891dca59f4f51eb13640e870233759/vscode.lock': The pid 11526 appears to be gone.
+2024-07-25 22:38:08.877 [info] Lock '/home/robertp/.vscode-server/data/User/workspaceStorage/56891dca59f4f51eb13640e870233759/vscode.lock': Deleting a stale lock.
+2024-07-25 22:38:08.885 [info] Lock '/home/robertp/.vscode-server/data/User/workspaceStorage/56891dca59f4f51eb13640e870233759/vscode.lock': Lock acquired.
+2024-07-25 22:38:08.910 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-25 22:38:08.971 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-25 22:38:09.021 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-25 22:38:09.022 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-25 22:38:09.164 [info] Eager extensions activated
+2024-07-25 22:38:09.165 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-25 22:38:09.165 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
