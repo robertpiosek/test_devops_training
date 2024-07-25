@@ -1,0 +1,25 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-b2167a58-bcd9-47e5-b386-cc3c6ca6b70f
+Extension host agent listening on /tmp/code-b2167a58-bcd9-47e5-b386-cc3c6ca6b70f
+
+[15:26:54] 
+
+
+
+
+[15:26:55] Extension host agent started.
+[15:26:55] Started initializing default profile extensions in extensions installation folder. file:///home/robertp/.vscode-server/extensions
+[15:26:55] [<unknown>][bd2549f9][ManagementConnection] New connection established.
+[15:26:55] [<unknown>][acd63e1c][ExtensionHostConnection] New connection established.
+[15:26:55] Completed initializing default profile extensions in extensions installation folder. file:///home/robertp/.vscode-server/extensions
+[15:26:55] [<unknown>][acd63e1c][ExtensionHostConnection] <1608> Launched Extension Host Process.
+[15:27:30] [<unknown>][349f3596][ManagementConnection] New connection established.
+[15:27:30] [<unknown>][8b44a726][ExtensionHostConnection] New connection established.
+[15:27:30] [<unknown>][8b44a726][ExtensionHostConnection] <1711> Launched Extension Host Process.
+[15:27:47] [<unknown>][bd2549f9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

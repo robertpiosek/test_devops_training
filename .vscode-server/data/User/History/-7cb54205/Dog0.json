@@ -1,0 +1,6 @@
+{
+    "remote.SSH.remotePlatform": {
+        "192.168.56.102": "linux"
+    },
+    "git.enableSmartCommit": true
+}
